@@ -1,6 +1,6 @@
-# Atividade 2 - QuickSort
+# Atividade - QuickSort
 
-Repositório contendo a resolução da Atividade 2 sobre o algoritmo QuickSort, com implementações e análises.
+Repositório contendo a resolução da Atividade sobre o algoritmo QuickSort, com implementações e análises.
 
 ---
 
@@ -145,30 +145,6 @@ quicksort(array, 1, 6)
             quicksort(array, 4, 4)
     quicksort(array, 6, 6)
 ```
-
----
-
-## Como Executar
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/GabrielHenriqueM/quicksort.git
-```
-
-Acesse a pasta:
-
-```bash
-cd quicksort
-```
-
-Execute os scripts desejados:
-
-```bash
-python e2/comparar_tempos.py
-```
-
----
 
 ## Autor
 
